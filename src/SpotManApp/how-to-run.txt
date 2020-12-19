@@ -1,0 +1,12 @@
+From within SpotManApp/ClientApp/spotman/ run:
+
+ng serve
+
+New command prompt
+
+From within SpotManApp/ run:
+
+dotnet watch run
+
+
+
